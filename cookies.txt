@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+sirius-solutions-hub.lovable.app	TRUE	/	FALSE	1999999999	__cf_bm	GOl0OgdbxYfXrsJn6mGKi9zSSADQ4.ixs.NmZnF55cQ-1788220727.5378168-1.0.1.1-YrylWXDjBsQxH2Z1GUbEPUDfVHhc9w5ioACSeBtfiCxH.3L9f2MF69F3JRM.vobeUUvdjr5DiVMwPhPBpUwm9saUtZuH6MjyMHIDZsiaUkxT3bzdQ13GIvFiUXbxFhfZ
+lovable.app	TRUE	/	FALSE	1999999999	SameSite	None
+
